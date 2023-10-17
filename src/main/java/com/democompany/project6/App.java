@@ -1,7 +1,7 @@
 package com.democompany.project6;
 
 /**
- * Hello world!
+ * welcome to webhook!
  *
  */
 public class App 
